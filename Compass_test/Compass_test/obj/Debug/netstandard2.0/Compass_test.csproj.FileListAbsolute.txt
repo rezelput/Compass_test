@@ -1,0 +1,15 @@
+C:\Users\sofiy\Documents\GitHH\Compass_test\Compass_test\Compass_test\bin\Debug\netstandard2.0\Compass_test.deps.json
+C:\Users\sofiy\Documents\GitHH\Compass_test\Compass_test\Compass_test\bin\Debug\netstandard2.0\Compass_test.dll
+C:\Users\sofiy\Documents\GitHH\Compass_test\Compass_test\Compass_test\bin\Debug\netstandard2.0\Compass_test.pdb
+C:\Users\sofiy\Documents\GitHH\Compass_test\Compass_test\Compass_test\obj\Debug\netstandard2.0\Compass_test.csproj.AssemblyReference.cache
+C:\Users\sofiy\Documents\GitHH\Compass_test\Compass_test\Compass_test\obj\Debug\netstandard2.0\Compass_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofiy\Documents\GitHH\Compass_test\Compass_test\Compass_test\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sofiy\Documents\GitHH\Compass_test\Compass_test\Compass_test\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\sofiy\Documents\GitHH\Compass_test\Compass_test\Compass_test\obj\Debug\netstandard2.0\Compass_test.AssemblyInfoInputs.cache
+C:\Users\sofiy\Documents\GitHH\Compass_test\Compass_test\Compass_test\obj\Debug\netstandard2.0\Compass_test.AssemblyInfo.cs
+C:\Users\sofiy\Documents\GitHH\Compass_test\Compass_test\Compass_test\obj\Debug\netstandard2.0\Compass_test.csproj.CoreCompileInputs.cache
+C:\Users\sofiy\Documents\GitHH\Compass_test\Compass_test\Compass_test\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sofiy\Documents\GitHH\Compass_test\Compass_test\Compass_test\obj\Debug\netstandard2.0\Compass_test.dll
+C:\Users\sofiy\Documents\GitHH\Compass_test\Compass_test\Compass_test\obj\Debug\netstandard2.0\refint\Compass_test.dll
+C:\Users\sofiy\Documents\GitHH\Compass_test\Compass_test\Compass_test\obj\Debug\netstandard2.0\Compass_test.pdb
+C:\Users\sofiy\Documents\GitHH\Compass_test\Compass_test\Compass_test\obj\Debug\netstandard2.0\ref\Compass_test.dll

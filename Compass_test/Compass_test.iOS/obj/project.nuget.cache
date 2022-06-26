@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gZR0YOhiO7BYzx/T/Lk5Sef05t0DC092n+Q32/s1KI8mam/PSM6QkwB1/b1ENGLka1tsizNc3Ddgi9ufgpAyzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sofiy\\Documents\\GitHH\\Compass_test\\Compass_test\\Compass_test.iOS\\Compass_test.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sofiy\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\sofiy\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\sofiy\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
